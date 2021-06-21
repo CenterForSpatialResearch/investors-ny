@@ -7,6 +7,7 @@ dependencies:
   - geopandas
   - matplotlib
   - shapely
+  - pip
   - numpy
   - seaborn
   - pysal
